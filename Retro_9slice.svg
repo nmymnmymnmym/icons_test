@@ -1,0 +1,31 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M16 6L8 6" stroke="white" stroke-width="4"/>
+<path d="M6 16L6 8" stroke="white" stroke-width="4"/>
+<rect x="8" y="16" width="8" height="8" transform="rotate(-90 8 16)" fill="#222222"/>
+<path d="M16 10L10 10L10 16" stroke="white" stroke-opacity="0.5" stroke-width="4"/>
+<rect x="32" width="16" height="16" transform="rotate(90 32 0)" fill="#222222"/>
+<path d="M32 2L16 2" stroke="white" stroke-width="4"/>
+<path d="M42 16V8" stroke="white" stroke-width="4"/>
+<path d="M32 6L40 6" stroke="white" stroke-width="4"/>
+<rect x="32" y="8" width="8" height="8" fill="#222222"/>
+<path d="M38 16V10L32 10" stroke="white" stroke-opacity="0.5" stroke-width="4"/>
+<rect y="16" width="16" height="16" fill="#222222"/>
+<path d="M2.00049 16L2.00049 32" stroke="white" stroke-width="4"/>
+<path opacity="0.5" d="M6 16L6 32" stroke="white" stroke-width="4"/>
+<rect width="16" height="16" transform="translate(16 16)" fill="#222222"/>
+<rect x="48" y="32" width="16" height="16" transform="rotate(-180 48 32)" fill="#222222"/>
+<path d="M45.9995 32L45.9995 16" stroke="white" stroke-width="4"/>
+<path opacity="0.5" d="M42 32L42 16" stroke="white" stroke-width="4"/>
+<path d="M32 42L40 42" stroke="white" stroke-width="4"/>
+<path d="M42 32L42 40" stroke="white" stroke-width="4"/>
+<rect x="40" y="32" width="8" height="8" transform="rotate(90 40 32)" fill="#222222"/>
+<path d="M32 38L38 38L38 32" stroke="white" stroke-opacity="0.5" stroke-width="4"/>
+<rect x="16" y="48" width="16" height="16" transform="rotate(-90 16 48)" fill="#222222"/>
+<path d="M16 46L32 46" stroke="white" stroke-width="4"/>
+<path d="M6 32L6 40" stroke="white" stroke-width="4"/>
+<path d="M16 42L8 42" stroke="white" stroke-width="4"/>
+<rect x="16" y="40" width="8" height="8" transform="rotate(-180 16 40)" fill="#222222"/>
+<path d="M10 32L10 38L16 38" stroke="white" stroke-opacity="0.5" stroke-width="4"/>
+<path d="M32 6L16 6" stroke="white" stroke-opacity="0.5" stroke-width="4"/>
+<path d="M32 42L16 42" stroke="white" stroke-opacity="0.5" stroke-width="4"/>
+</svg>
