@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .balloon-path {
+      fill: var(--balloon-color, #fff);
+    }
+  </style>
+  <path class="balloon-path" d="M32 0c8.837 0 16 7.163 16 16v16c0 8.837-7.163 16-16 16H16C7.163 48 0 40.837 0 32V16c0-2.74.688-5.32 1.902-7.574C.907 5.712.385 3.154.116 1.376-.02.476 1.027-.001 1.765.56c1.148.873 2.742 1.919 4.586 2.676A15.93 15.93 0 0 1 16 0z"/>
+</svg>
